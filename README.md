@@ -5,7 +5,7 @@ The project was developed during my **Data Analytics Internship at BSE Global**,
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### Problem
 Managing large crowds at live events requires anticipating **queue congestion** at entry gates. Traditional staffing decisions relied heavily on historical averages and manual adjustments, often failing to capture event-specific dynamics (e.g., weather, genre, arrival patterns).
