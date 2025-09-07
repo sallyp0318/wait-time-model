@@ -91,15 +91,3 @@ Predicted curves successfully track real-world congestion patterns, allowing ope
 - **Operational Integration**: Automate Tableau dashboards for day-of-event decisioning.  
 - **Simulation**: Test “what-if” staffing/gate allocation scenarios.  
 
----
-
-## 👩‍💻 Author
-
-**Sally Park**  
-M.S. Applied Analytics @ Columbia University (Expected Dec 2025)  
-Data Analytics Intern @ BSE Global | Former Sr. Analyst @ Horizon Media  
-[LinkedIn](https://www.linkedin.com/in/sally-park-031898/) | [Email](mailto:sp4439@columbia.edu)
-
----
-
-⭐️ If you found this project interesting, feel free to star this repo!
